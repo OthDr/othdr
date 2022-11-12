@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **some MERN Projects**
 
-- 👨‍💻 Some of my projects are available on public [here in Github](here in Github)
+- 👨‍💻 Some of my projects are available on public **Here**
 
 - 💬 Ask me about **Java, Javascript, React, Android, SQL...**
 
