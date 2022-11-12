@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **oth.derrar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> Twitter: *https://twitter.com/derroth76*
+<h3 align="left">Portfolio:</h3>  *https://othmane-derrar.herokuapp.com/*
 <p align="left">
 </p>
 
