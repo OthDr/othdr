@@ -1,3 +1,4 @@
+<img width="full" alt="full-stack developer" src"https://nectarbits.com/blog/should-you-hire-a-separate-web-designer-and-developer/">
 <h1 align="center">Hi 👋, I'm OTHMANE</h1>
 <img align="right" width="450" alt="Chill and Dev" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
