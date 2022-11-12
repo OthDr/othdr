@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **oth.derrar@gmail.com**
 
-<img align="right" alt="Chill and Dev" src="https://www.google.com/search?q=co%3Bputer+sciencegif&tbm=isch&ved=2ahUKEwjF9euqsKn7AhVoxoUKHerqDCQQ2-cCegQIABAA&oq=co%3Bputer+sciencegif&gs_lcp=CgNpbWcQA1CyCFijHmCTIGgAcAB4AIAB4AOIAcMFkgEHMi0xLjAuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=B_RvY4XWLOiMlwTq1bOgAg&bih=763&biw=1536#imgrc=Xu8W9jCmI-BaXM"></img>
+<img align="right" width="350" alt="Chill and Dev" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
