@@ -1,9 +1,10 @@
 <img align="center" width="1080" alt="full-stack developer" src="https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif" />
 <h1 align="center">👋, I'm OTHMANE</h1>
-<img align="right" width="450" alt="Chill and Dev" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
-
+<br> 
 <h3 align="center">A passionate Software Engineer and Master Student</h3>
+<br> <br>
 
+<img align="right" width="500" alt="Chill and Dev" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" />
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
