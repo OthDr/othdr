@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm OTHMANE</h1>
 <h3 align="center">A passionate Software Engineer and Master Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=othdr&label=Profile%20views&color=0e75b6&style=flat" alt="othdr" /> </p>
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
