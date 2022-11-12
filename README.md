@@ -1,7 +1,8 @@
+
+<img align="right" width="350" alt="Chill and Dev" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 <h1 align="center">Hi 👋, I'm OTHMANE</h1>
 <h3 align="center">A passionate Software Engineer and Master Student</h3>
 
-<img align="right" width="350" alt="Chill and Dev" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
