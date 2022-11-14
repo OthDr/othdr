@@ -1,5 +1,5 @@
-<img align="center" width="1080" alt="full-stack developer" src="https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif" />
-<h1 align="center">👋, I'm OTHMANE</h1>
+
+<h1 align="center">Hi👋!, I'm OTHMANE</h1>
 <br> 
 <h3 align="center">A passionate Software Engineer and Master Student</h3>
 <br> <br>
