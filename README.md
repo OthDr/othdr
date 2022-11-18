@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
-- ⚡ I’m currently learning **ReactJS, NodeJS Express, Mocha and Chai**
+- ⚡ I’m currently learning **ReactJS, Spring Boot**
 
 - 👯 I’m looking to collaborate on **some MERN Projects**
 
