@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
-- ⚡ I’m currently learning **ReactJS, Spring Boot and Microservices**
+- ⚡ I’m currently learning **Spring Boot and Microservices**
 
 - 👯 I’m looking to collaborate on **some MERN Projects**
 
