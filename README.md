@@ -10,11 +10,11 @@
 
 - ⚡ I’m currently learning **Microservices** and **CI/CD**
 
-- 👯 I’m looking to collaborate on **some MERN Projects**
+- 👯 I’m looking to collaborate on **.NET CORE/ReactTs Projects**
 
 - 👨‍💻 Some of my projects are available on public **Here**
 
-- 💬 Ask me about **Java, Javascript, React, Android, SQL...**
+- 💬 Ask me about **Java, .NetCore, Typescript, React, RestAPIs, SQL...**
 
 <h3 align="left">Portfolio:</h3> https://othmane-derrar.netlify.app/
 
