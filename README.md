@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **.NET CORE/ReactTs Projects**
 
-- 👨‍💻 Some of my projects are available on public **Here**
+- 👨‍💻 Some of my projects are available in public **Here**
 
 - 💬 Ask me about **Java, .NetCore, Typescript, React, RestAPIs, SQL...**
 
