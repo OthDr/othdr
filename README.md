@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Master student on **Information Systems Engineering**
 
-- ⚡ I’m currently learning **Microservices** and **CI/CD**
+- ⚡ I’m currently learning **.NET 6** and **CI/CD**
 
 - 👯 I’m looking to collaborate on **.NET CORE/ReactTs Projects**
 
