@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Chill and Dev" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" />
 
-- 🔭 I’m a Master student on **Information Systems Engineering**
+- 🔭 I’m a Master student : **Information Systems Engineering**
 
 - ⚡ I’m currently learning **.NET 6** and **CI/CD**
 
