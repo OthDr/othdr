@@ -6,7 +6,7 @@
 
 <img align="right" width="400" alt="Chill and Dev" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" />
 
-- 🔭 Master of Information Systems Engineering : **Information Systems Engineering**
+- 🔭 Master's Degree : **Information Systems Engineering**
 
 - ⚡ I’m currently learning **ASP.NET CORE** and **CI/CD**
 
