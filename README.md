@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=othdr&show_icons=true&locale=en&layout=compact" alt="othdr" /></p>
+![OthDr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OthDr&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -71,6 +71,7 @@
   
   <br>
   
+![OthDr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OthDr&theme=cobalt&hide_border=true)  
   
  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
