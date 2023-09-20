@@ -23,7 +23,7 @@
 <p align="left">
 </p>
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=othdr&show_icons=true&locale=en&layout=compact" alt="othdr" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
