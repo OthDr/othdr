@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! 👋, I'm OTHMANE</h1>
 <br> 
-<h3 align="center">A passionate Software Engineer and Master Student</h3>
+<h3 align="center">A passionate Software Engineer & Full-Stack Developer</h3>
 <br> <br>
 
 <img align="right" width="400" alt="Chill and Dev" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" />
