@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, .NetCore, Typescript, React, RestAPIs, SQL...**
 
-<h3 align="left">Portfolio:</h3> https://othmane-derrar.netlify.app/
+<h3 align="left">Portfolio:</h3> Soon ;)
 
 <h3 align="left">Contact me:</h3> oth.derrar@gmail.com
 
