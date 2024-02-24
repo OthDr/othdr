@@ -8,7 +8,7 @@
 
 - 🔭 Master's Degree : **Information Systems Engineering**
 
-- ⚡ I’m currently learning **ASP.NET CORE** and **CI/CD**
+- ⚡ I’m currently learning **.NET CORE** and **CI/CD**
 
 - 👯 I’m looking to collaborate on **.NET CORE/ReactTs Projects**
 
