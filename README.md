@@ -8,13 +8,13 @@
 
 - 🔭 Master's Degree : **Information Systems Engineering**
 
-- ⚡ I’m currently learning **.NET CORE** and **CI/CD**
+- ⚡ I’m currently learning **Application Security** and **Micro-Services Architecture**
 
-- 👯 I’m looking to collaborate on **.NET CORE/ReactTs Projects**
+- 👯 I’m looking to collaborate on **Spring Cloud & Security Projects / Frontend with React Typescript**
 
 - 👨‍💻 Some of my projects are available in public **Here**
 
-- 💬 Ask me about **Java, .NetCore, Typescript, React, RestAPIs, SQL...**
+- 💬 Ask me about **Micro-services, Application Security, .NetCore, Typescript, React, Software Architecture**
 
 <h3 align="left">Portfolio:</h3> Soon ;)
 
