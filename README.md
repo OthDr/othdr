@@ -8,7 +8,7 @@
 
 - 🔭 Master's Degree : **Information Systems Engineering**
 
-- ⚡ I’m currently learning **Application Security** and **Micro-Services Architecture**
+- ⚡ I’m currently learning **Angular** and **Cloud-Native Architecture**
 
 - 👯 I’m looking to collaborate on **Spring Cloud & Security Projects / Frontend with React Typescript**
 
