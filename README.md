@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi! 👋, I'm OTHMANE</h1>
 <br> 
-<h3 align="center">A passionate Software Engineer & Full-Stack Developer</h3>
+<h3 align="center">Software Engineer & R&D Architect
+I build high-concurrency distributed systems that solve real-world problems. Whether it's architecting national-scale Fintech infrastructure, integrating Generative AI for US-based startups, or engineering resilient e-commerce platforms, my focus is always on scalability, security, and performance.
+</h3>
 <br> <br>
 
 <img align="right" width="400" alt="Chill and Dev" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" />
 
 - 🔭 Master's Degree : **Information Systems Engineering**
 
-- ⚡ I’m currently learning **Angular** and **Cloud-Native Architecture**
-
 - 👯 I’m looking to collaborate on **Spring Cloud & Security Projects / Frontend with React Typescript**
 
 - 👨‍💻 Some of my projects are available in public **Here**
 
-- 💬 Ask me about **Micro-services, Application Security, .NetCore, Typescript, React, Software Architecture**
+- 💬 Ask me about **Micro-services, Application Security, Spring Boot, Camunda BPMN, Software Architecture**
 
 <h3 align="left">Portfolio:</h3> Soon ;)
 
