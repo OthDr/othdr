@@ -16,7 +16,7 @@ I build high-concurrency distributed systems that solve real-world problems. Whe
 
 - 💬 Ask me about **Micro-services, Application Security, Spring Boot, Camunda BPMN, Software Architecture**
 
-<h3 align="left">Portfolio:</h3> [Portfolio Live](https://othmane-derrar-2026.netlify.app/)
+<h3 align="left">Portfolio:</h3>https://othmane-derrar-2026.netlify.app/
 
 <h3 align="left">Contact me:</h3> oth.derrar@gmail.com
 
