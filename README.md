@@ -1,234 +1,219 @@
-<h1 align="center">Hi 👋, I'm OTHMANE</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Software Engineer · Entreprise Solutions Architect · AI Assisted Development
-</h3>
+<a href="https://github.com/OthDr">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=680&height=40&lines=Senior+Software+Engineer+%26+R%26D;Fintech+%C2%B7+Digital+Identity+%C2%B7+Process+Automation;Distributed+Systems+%26+Microservices;Spring+Cloud+%C2%B7+Keycloak+%C2%B7+OIDC+%C2%B7+SAML+%C2%B7+JWT;Camunda+BPMN+2.0+%C2%B7+E-KYC+%C2%B7+E-Signature;Event-Driven+Architecture+with+RabbitMQ" alt="Typing headline"/>
+</a>
 
-<p align="center">
-I design and engineer secure, scalable and resilient software systems for complex business environments.
+**I don't just implement features. I design systems.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-othmane--derrar--2026-22d3ee?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117)](https://othmane-derrar-2026.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-oth.derrar%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:oth.derrar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-othmane--derrar-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/othmane-derrar-531739225)
+[![GitHub](https://img.shields.io/badge/GitHub-OthDr-e6edf3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/OthDr)
+
+</div>
+
+<br/>
+
+## ◆ Engineering Profile
+
+I build backend systems where **correctness, security and change** matter: identity onboarding, regulated workflows, electronic signatures and enterprise integration. Java and Spring at the core, workflows in BPMN, and enough full-stack range to own a feature from UI to database.
+
+<div align="center">
+
+`Architecture` → `Security` → `Integration` → `Containerization` → `CI/CD`
+
+</div>
+
+<br/>
+
+## ◆ Core Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏗️ Distributed Systems**<br/>
+Microservices, SAGA-based distributed transactions, Spring Cloud Gateway, event-driven messaging with RabbitMQ, Backend-for-Frontend layers
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 Identity & Security**<br/>
+Keycloak as the central auth layer, OIDC and SAML flows, JWT, RBAC, encryption of sensitive financial data
+
+</td>
+<td width="33%" valign="top">
+
+**🔄 Process Automation**<br/>
+Regulatory compliance encoded as Camunda BPMN 2.0 workflows that change without redeployment
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🪪 Digital Identity & E-KYC**<br/>
+Digital bank onboarding, document processing, electronic signature services integrated into banking workflows
+
+</td>
+<td valign="top">
+
+**☁️ Delivery**<br/>
+Docker, CI/CD on Jenkins, GitLab CI and GitHub Actions, Azure, MinIO
+
+</td>
+<td valign="top">
+
+**🎨 Full-Stack**<br/>
+React, TypeScript, Redux, Angular, TailwindCSS, plus .NET Core and Node.js backends
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ◆ Tech Stack
+
+Highlighted rows are where I go deepest.
+
+### ⭐ Core engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring&perline=8" alt="Java, Spring"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-0d1117?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Cloud"/>
+<img src="https://img.shields.io/badge/Spring_Security-0d1117?style=for-the-badge&logo=springsecurity&logoColor=6DB33F" alt="Spring Security"/>
+<img src="https://img.shields.io/badge/Camunda_BPMN_2.0-0d1117?style=for-the-badge&logo=camunda&logoColor=FC5D0D" alt="Camunda"/>
 </p>
 
-<p align="center">
-<strong>Distributed Systems · Microservices · Enterprise Architecture · Security · BPM · Cloud</strong>
+### ⭐ Architecture, messaging & identity
+
+<p>
+<img src="https://img.shields.io/badge/Microservices-0d1117?style=for-the-badge&label=%E2%97%86&labelColor=22d3ee" alt="Microservices"/>
+<img src="https://img.shields.io/badge/SAGA-0d1117?style=for-the-badge&label=%E2%97%86&labelColor=8b5cf6" alt="SAGA"/>
+<img src="https://img.shields.io/badge/Backend--for--Frontend-0d1117?style=for-the-badge&label=%E2%97%86&labelColor=22d3ee" alt="BFF"/>
+<img src="https://img.shields.io/badge/RabbitMQ-0d1117?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Keycloak-0d1117?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+<img src="https://img.shields.io/badge/OIDC_·_SAML-0d1117?style=for-the-badge&label=%E2%97%86&labelColor=8b5cf6" alt="OIDC and SAML"/>
+<img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/RBAC-0d1117?style=for-the-badge&label=%E2%97%86&labelColor=8b5cf6" alt="RBAC"/>
+<img src="https://img.shields.io/badge/MinIO-0d1117?style=for-the-badge&logo=minio&logoColor=C72E49" alt="MinIO"/>
 </p>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👨‍💻 About Me
+**Full-stack & additional backends**<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,ts,redux,angular,tailwind,nodejs,cs,dotnet,python&perline=9" alt="Frontend and extra backends"/>
 
-I'm a **Software Engineer specialized in backend architecture, distributed systems and enterprise application engineering**, with a strong full-stack background.
+</td>
+<td width="50%" valign="top">
 
-My work focuses on designing systems that are not only functional, but **scalable, secure, observable, maintainable and resilient under real-world constraints**.
+**Data**<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" alt="PostgreSQL, MySQL, MongoDB"/>
+<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle"/>
 
-I work across the engineering lifecycle — from **architecture and system design** to implementation, integration, security and deployment.
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-🎓 **Master's Degree — Information Systems Engineering**
+**⭐ Cloud & DevOps**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,gitlab,githubactions,azure&perline=5" alt="Docker, Jenkins, GitLab, GitHub Actions, Azure"/>
 
-### 🏗️ Engineering Focus
+</td>
+<td valign="top">
 
-* **Distributed & High-Concurrency Systems**
-* **Microservice Architecture**
-* **Enterprise Application Architecture**
-* **API & Integration Architecture**
-* **Application & Platform Security**
-* **Workflow & Process Orchestration**
-* **Cloud-Native Engineering**
-* **Performance & Scalability**
-* **Resilience & Fault Tolerance**
-* **CI/CD & Production Engineering**
+**Tooling**<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,postman&perline=2" alt="Git, Postman"/>
 
----
+</td>
+</tr>
+</table>
 
-### ⚙️ Backend & Distributed Systems
+<br/>
 
-**Java · Spring Boot · Spring Cloud · Spring Security**
+## ◆ Engineering Mindset
 
-* Microservices architecture
-* API Gateway architecture
-* Service discovery
-* Distributed configuration
-* Inter-service communication
-* REST API design
-* SAGA / distributed transaction patterns
-* JPA / Hibernate
-* Transaction management
-* Exception & resilience strategies
-* High-concurrency backend services
+I choose architecture by **trade-offs, not by pattern for its own sake**: the right level of distribution, consistency, coupling and complexity for the problem.
 
-**Additional backend experience:**
+<table>
+<tr>
+<td align="center" width="20%"><b>Scalability</b><br/><sub>distribute only where load demands it</sub></td>
+<td align="center" width="20%"><b>Performance</b><br/><sub>fewer round trips, smaller payloads</sub></td>
+<td align="center" width="20%"><b>Security</b><br/><sub>architectural, not bolted on</sub></td>
+<td align="center" width="20%"><b>Resilience</b><br/><sub>fail predictably, recover cleanly</sub></td>
+<td align="center" width="20%"><b>Maintainability</b><br/><sub>change rules without redeploying</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Consistency</b><br/><sub>SAGA vs. strict transactions</sub></td>
+<td align="center"><b>Coupling</b><br/><sub>sync REST vs. async messaging</sub></td>
+<td align="center"><b>Availability</b><br/><sub>onboarding stays up under load</sub></td>
+<td align="center"><b>Observability</b><br/><sub>systems that explain themselves</sub></td>
+<td align="center"><b>Operational cost</b><br/><sub>complexity has a running price</sub></td>
+</tr>
+</table>
 
-**Node.js · Express · C# · .NET Core**
+<br/>
 
----
+## ◆ What I Build
 
-### 🔐 Security Engineering
+<table>
+<tr>
+<td width="25%" valign="top">
 
-Security is treated as an architectural concern rather than an implementation detail.
+**🪪 Digital identity & E-KYC**<br/><sub>Onboarding pipelines driven by BPMN workflows, so rules change without redeploying.</sub>
 
-**Spring Security · JWT · RBAC · API Security · Authentication · Authorization · Security Filters · Encryption / Decryption**
+</td>
+<td width="25%" valign="top">
 
-Experience designing security mechanisms across distributed services, gateways and enterprise applications.
+**✍️ Electronic signature services**<br/><sub>Embeddable signing as a SaaS product for banking workflows.</sub>
 
----
+</td>
+<td width="25%" valign="top">
 
-### 🔄 BPM & Enterprise Process Engineering
+**🛡️ Secure service platforms**<br/><sub>Gateways, Keycloak (OIDC / SAML), JWT and RBAC across microservices.</sub>
 
-**Camunda BPM · BPMN 2.0 · Process Orchestration**
+</td>
+<td width="25%" valign="top">
 
-Designing and integrating business workflows involving:
+**⚡ Event-driven systems**<br/><sub>RabbitMQ messaging and SAGA flows that keep services decoupled and available.</sub>
 
-* Process orchestration
-* Human tasks
-* Automated service tasks
-* Correction / rework flows
-* Process versioning
-* REST-based process integration
-* eKYC / identity workflows
-* Business process automation
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-### 🧩 Enterprise Integration
+[**→ Case studies on my portfolio**](https://othmane-derrar-2026.netlify.app/)
 
-I work extensively at the boundaries between systems:
+</div>
 
-**REST · API Gateways · External Systems · Service-to-Service Integration · Authentication · Data & Document Services**
+<br/>
 
-Including technologies such as:
+## ◆ GitHub Activity
 
-**Eureka · Spring Cloud Gateway · MinIO · SQL Server · Azure**
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OthDr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthDr&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
 
-### ☁️ Cloud & Engineering Infrastructure
+<img src="https://streak-stats.demolab.com?user=OthDr&hide_border=true&background=0d1117&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="Contribution streak" width="70%"/>
 
-**Docker · Linux · Azure · GitHub Actions · CI/CD**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OthDr&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=e6edf3&area=true&area_color=3b82f6&hide_border=true" alt="Contribution graph" width="100%"/>
 
-I build and deploy containerized services with an emphasis on:
+</div>
 
-* Reproducible environments
-* Automated delivery
-* Secure deployments
-* Service isolation
-* Operational reliability
+<br/>
 
----
+<div align="center">
 
-### 🗄️ Data Engineering
+**Engineering systems that scale. Securing systems that matter.**
 
-**SQL Server · Oracle · MySQL · MongoDB · Redis**
+<sub>📫 <a href="mailto:oth.derrar@gmail.com">oth.derrar@gmail.com</a> · 🌐 <a href="https://othmane-derrar-2026.netlify.app/">Portfolio</a> · 💼 <a href="https://www.linkedin.com/in/othmane-derrar-531739225">LinkedIn</a></sub>
 
-Experience with relational and NoSQL data stores, persistence design, transactions and ORM-based data access.
-
----
-
-### 🎨 Full-Stack Engineering
-
-Although my strongest area is **backend and architecture**, I also build production-grade frontends with:
-
-**React · TypeScript · JavaScript · Tailwind CSS · Material UI**
-
-This allows me to work across the complete application boundary — from UI to APIs, security, business logic and infrastructure.
-
----
-
-### 🧠 Architecture Mindset
-
-I care about the engineering decisions behind the code.
-
-Areas I particularly enjoy:
-
-```text
-Scalability
-    ↓
-Concurrency & Performance
-    ↓
-Distributed Systems
-    ↓
-Security
-    ↓
-Resilience
-    ↓
-Observability
-    ↓
-Maintainability
-```
-
-I approach architecture through **trade-offs rather than patterns for their own sake** — choosing the right level of distribution, consistency, coupling, abstraction and complexity for the problem being solved.
-
----
-
-### 🔬 Areas of Interest
-
-**Distributed Systems**
-**Software Architecture**
-**Enterprise Java**
-**Spring Cloud**
-**Application Security**
-**Camunda / BPM**
-**eKYC & Identity Platforms**
-**Cloud-Native Systems**
-**Generative AI**
-**High-Concurrency Applications**
-
----
-
-### 🛠️ Technology Stack
-
-<p align="center">
-
-<strong>Languages</strong><br>
-Java · C# · TypeScript · JavaScript · SQL
-
-<br><br>
-
-<strong>Backend</strong><br>
-Spring Boot · Spring Cloud · Spring Security · .NET Core · Node.js · Express
-
-<br><br>
-
-<strong>Architecture</strong><br>
-Microservices · API Gateway · SAGA · Distributed Systems · REST · BPMN
-
-<br><br>
-
-<strong>Security</strong><br>
-JWT · RBAC · Authentication · Authorization · Encryption
-
-<br><br>
-
-<strong>Frontend</strong><br>
-React · TypeScript · Tailwind CSS · Material UI
-
-<br><br>
-
-<strong>Data</strong><br>
-SQL Server · Oracle · MySQL · MongoDB · Redis · JPA / Hibernate
-
-<br><br>
-
-<strong>Cloud & DevOps</strong><br>
-Azure · Docker · Linux · GitHub Actions · CI/CD
-
-<br><br>
-
-<strong>Enterprise & Workflow</strong><br>
-Camunda BPM · Eureka · Spring Cloud Gateway · MinIO
-
-</p>
-
----
-
-### 🌐 Portfolio
-
-**https://othmane-derrar-2026.netlify.app/**
-
-### 📫 Contact
-
-**[oth.derrar@gmail.com](mailto:oth.derrar@gmail.com)**
-
----
-
-<p align="center">
-<strong>Engineering systems that scale. Securing systems that matter.</strong>
-</p>
+</div>
